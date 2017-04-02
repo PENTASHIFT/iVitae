@@ -10,4 +10,4 @@ A Zero Person Role-Playing Game served via IRC.
 
 ☐ Set up item hierarchy
 
-☐ Set uo Familiar's
+☐ Set up Familiar's
