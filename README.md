@@ -2,7 +2,7 @@
 A Zero Person Role-Playing Game served via IRC.
 
 #### TODO:
-☑ Set up Stats
+☐ Set up Stats
 
 ☐ Set up Legendary Instances
 
